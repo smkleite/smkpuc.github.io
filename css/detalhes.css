@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1E90FF;
+}
+
+header {
+    background-color: #ADD8E6;
+}
+
+header button.btn {
+    background-color: #1E90FF;
+}
+
+header button.btn:hover{
+    transition: all 0.6s;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #1E90FF; 
+    font-size: 30px;
+}
+
+main button.btn {
+    background-color: #1E90FF;
+}
+
+main button.btn:hover{
+    transition: all 0.6s;
+    background-color: #ADD8E6;
+}
+
+main section .pricing {
+    color: rgb(0, 158, 0);
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+section .container {
+    background-color: #CCCCCC;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img.pix{
+    width: 107px;
+    height: 68px;
+}
+
+footer .container-fluid {
+    background-color: #ADD8E6;
+}
+
+.bordermid {
+    border-right: 3px solid #1E90FF;
+}
+
+.linkfooter {
+    font-size: 20px;
+}
+
+.lastfooter p {
+    background-color: #1E90FF;
+}
